@@ -75,11 +75,7 @@ npm run build
 # Deploy
 npm run deploy
 
-⚠️ Make sure your vite.config.ts has the correct base for GitHub Pages:
-export default defineConfig({
-  base: '/rajeev-portfolio/', // GitHub repo name
-  ...
-});
+```
 💬 Contact Me
 📧 Email: rajeevnayan.dev@gmail.com
 🔗 LinkedIn: linkedin.com/in/your-link
