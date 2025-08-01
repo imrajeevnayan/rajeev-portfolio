@@ -75,9 +75,12 @@ npm run build
 # Deploy
 npm run deploy
 
+
+
 ```
 💬 Contact Me
-📧 Email: rajeevnayan.dev@gmail.com
-🔗 LinkedIn: linkedin.com/in/your-link
+📧 Email: imrajeevnayan@gmail.com
+🔗 LinkedIn:https://www.linkedin.com/in/imrajeevnayan/
+🔗 Instagram:https://www.instagram.com/imrajeevnayan/
 
 <p align="center"> Made with ❤️ by Rajeev Nayan </p> ```
