@@ -14,27 +14,28 @@ A modern, fast, and responsive portfolio site showcasing my projects, skills, an
 - Tailwind CSS (if you're using it)
 - [Add any other key tech you use]
 
+
 ## Getting Started
 
 ### Install dependencies
-
 ```bash
 npm install
-
-Run development server
 ```
+
+### Run development server
+```bash
 npm run dev
 ```
-Build for production
-```
+
+### Build for production
+```bash
 npm run build
 ```
-Preview production build
 
+### Preview production build
+```bash
 npm run preview
-License
+```
+
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-
-# rajeev-portfolio
-Personal portfolio website built with React, TypeScript, and Vite
