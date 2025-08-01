@@ -77,10 +77,15 @@ npm run deploy
 
 
 
-```
-💬 Contact Me
-📧 Email: imrajeevnayan@gmail.com
-🔗 LinkedIn:https://www.linkedin.com/in/imrajeevnayan/
-🔗 Instagram:https://www.instagram.com/imrajeevnayan/
+## 💬 Contact Me
 
-<p align="center"> Made with ❤️ by Rajeev Nayan </p> ```
+- 📧 **Email**: [imrajeevnayan@gmail.com](mailto:imrajeevnayan@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/imrajeevnayan](https://www.linkedin.com/in/imrajeevnayan/)  
+- 📸 **Instagram**: [@imrajeevnayan](https://www.instagram.com/imrajeevnayan/)
+
+---
+
+<p align="center">
+  Made with ❤️ by <strong>Rajeev Nayan</strong>
+</p>
+
