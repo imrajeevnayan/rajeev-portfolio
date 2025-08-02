@@ -1,6 +1,10 @@
 <h1 align="center">🌐 Rajeev Nayan - Developer Portfolio 🚀</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Welcome+to+my+portfolio;Built+with+React+and+Vite;Check+it+out+below!" alt="Typing Animation" />
+</p>
+
+<p align="center">
   <a href="https://imrajeevnayan.github.io/rajeev-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Site-View%20Now-blue?style=for-the-badge&logo=github" alt="Live Site" />
   </a>
@@ -25,6 +29,12 @@
 | Frontend | Styling | Animation | Deployment |
 |----------|---------|-----------|------------|
 | ![React](https://img.shields.io/badge/React-18-blue?logo=react) | ![Tailwind](https://img.shields.io/badge/TailwindCSS-3.x-green?logo=tailwindcss) | ![Framer Motion](https://img.shields.io/badge/Framer--Motion-11.x-pink?logo=framer) | ![GitHub Pages](https://img.shields.io/badge/GitHub--Pages-Deployed-brightgreen?logo=github) |
+
+---
+
+## 📁 Folder Structure
+
+
 
 ---
 
