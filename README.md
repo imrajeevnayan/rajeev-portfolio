@@ -73,7 +73,16 @@ npm run dev
 npm run build
 
 # Deploy
-npm run deploy
+npm run 
+
+
+## 🚀 Preview
+
+![Rajeev Portfolio]## 🚀 Preview
+
+![Rajeev Portfolio](https://raw.githubusercontent.com/imrajeevnayan/rajeev-portfolio/main/assets/preview.png)
+
+
 
 
 
