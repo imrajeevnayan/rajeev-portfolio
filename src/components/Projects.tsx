@@ -9,8 +9,8 @@ const projects = [
     image: 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80',
     tech: ['React.js', 'Node.js', 'Express.js', 'MongoDB'],
     links: {
-      github: 'https://github.com/imrajeevnayan',
-      live: '#',
+      github: 'https://github.com/imrajeevnayan/',
+      live: 'https://reliable-bonbon-78a9c8.netlify.app/',
     },
   },
   {
@@ -20,7 +20,7 @@ const projects = [
     tech: ['React.js', 'Weather API', 'Tailwind CSS'],
     links: {
       github: 'https://github.com/imrajeevnayan',
-      live: '#',
+      live: 'https://imrajeevnayan.github.io/weather-forecast-application/',
     },
   },
   {
@@ -30,7 +30,7 @@ const projects = [
     tech: ['React.js', 'Tailwind CSS', 'Framer Motion'],
     links: {
       github: 'https://github.com/imrajeevnayan',
-      live: '#',
+      live: 'https://imrajeevnayan01.netlify.app/',
     },
   },
 ];
