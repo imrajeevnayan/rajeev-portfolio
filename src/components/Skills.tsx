@@ -16,7 +16,7 @@ const skillCategories = [
   {
     title: 'Backend',
     icon: <Database className="w-6 h-6" />,
-    skills: ['Node.js', 'Express.js', 'MySQL', 'MongoDB'],
+    skills: ['Spring', 'SpringBoot', 'MySQL', 'Oracle', 'Jdbc', 'MongoDB'],
   },
   {
     title: 'Tools & Others',
