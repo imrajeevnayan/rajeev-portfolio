@@ -1,6 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { ExternalLink, Github } from 'lucide-react';
+import { desc } from 'framer-motion/client';
 
 const projects = [
   {
@@ -33,6 +34,36 @@ const projects = [
       live: 'https://imrajeevnayan01.netlify.app/',
     },
   },
+  {
+    title: 'ziaka ',
+    description: 'Zaika is a modern food delivery platform that brings the authentic taste of India right to your doorstep.it offers a seamless food ordering experience with real-time updates and secure authentication.',
+    image: 'https://media.istockphoto.com/id/1829241109/photo/enjoying-a-brunch-together.jpg?s=1024x1024&w=is&k=20&c=QPHFTWoscwMSXOEGKoAKOjlCnMGszppFBrqQHdy4EGc=',
+    tech: ['React.js', 'Firebase', 'CSS'],
+    links: {
+      github: 'https://github.com/imrajeevnayan/ziaka/',
+      live: 'https://imrajeevnayan.github.io/ziaka/',
+    },
+  },
+  {
+    title:'Rento',
+    description: 'Rento is a modern rental platform that connects users with a wide range of rental services, from apartments to vehicles. It features user-friendly navigation and secure payment options.',
+    image: 'https://i.ibb.co/8D1Mgj0y/Screenshot-2025-08-06-185159.png?s=1024x1024&w=is&k=20&c=QPHFTWoscwMSXOEGKoAKOjlCnMGszppFBrqQHdy4EGc=', 
+    tech: ['React.js', 'Firebase', 'CSS'],
+    links: {
+      github: 'https://github.com/imrajeevnayan/Rento',
+      live: 'https://imrajeevnayan.github.io/Rento/',
+  },
+},
+{
+  title:'readmify',
+  description: 'readmify is an AI-powered README generator designed to help developers create polished and informative README.md files for their GitHub projects. It uses advanced AI algorithms to analyze project details and generate comprehensive documentation.',
+  image: 'https://i.ibb.co/JFkMMdQp/Screenshot-2025-08-05-233237.png?s=1024x1024&w=is&k=20&c=QPHFTWoscwMSXOEGKoAKOjlCnMGszppFBrqQHdy4EGc=',
+  tech: ['React.js', 'Node.js', 'Express.js', 'MongoDB'],
+  links: {
+    github: 'https://github.com/imrajeevnayan/readmify',
+    live: 'https://imrajeevnayan.github.io/readmify/',
+  },
+},
 ];
 
 const Projects = () => {
